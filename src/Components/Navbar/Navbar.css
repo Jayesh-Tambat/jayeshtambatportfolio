@@ -1,0 +1,80 @@
+.NavbarMainDiv{
+    background: #ffffff7f;
+    color: #000000;
+    backdrop-filter: blur(3px);
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content:space-around;
+    align-items: center;
+    height:4rem;
+    position: fixed;
+}
+
+.Logo{
+    font-size: 25px;
+    letter-spacing:0.5px;
+    font-weight: 800;
+    margin-bottom: 10px;  
+}
+
+.Logo span{
+    color: #ff7700;
+    font-size: 40px;
+}
+
+.NavLinksDiv{
+    width:40%;
+    height:50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-links{
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.nav-links::after{
+    content: "";
+    width:0;
+    height:2.5px;
+    background:#ff7700;
+    position:absolute;
+    left:0%;
+    bottom: -6px;
+    transition: 0.5s;
+    border-radius: 5px;
+}
+
+.nav-links:hover::after{
+    width: 100%;
+}
+
+
+.nav-img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-img-div img{
+    max-width: 2rem;
+    max-height: 2rem;
+    cursor: pointer;
+    margin-right: 1rem;
+}
+
+.nav-img-div img:hover{
+    transform: scale(1.3);
+    transition: transform 0.5s ;
+    
+}
+
+
+
+

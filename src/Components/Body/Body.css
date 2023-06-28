@@ -1,0 +1,494 @@
+.Main-container {
+  scroll-behavior: smooth;
+}
+
+/*--------------------------About Section---------------------------*/
+
+.BodyMainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: auto;
+  height: 50rem;
+  background: url("./BG5.jpg");
+  background-size: 100%;
+}
+
+.BodyHeading {
+  font-size: 4rem;
+  font-weight: bolder;
+  color: black;
+}
+
+.container {
+  color: #e5e5e5;
+  font-size: 3rem;
+  font-weight: bold;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 3rem;
+}
+
+.animation {
+  height: 5rem;
+  width: 28rem;
+  overflow: hidden;
+  margin-left: 1rem;
+}
+
+.animation>div>div {
+  padding: 0.1rem 1rem;
+  padding-bottom: 0.5rem;
+  height: 3.8rem;
+  margin-bottom: 1.59rem;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.animation div:first-child {
+  animation: text-animation 8s infinite;
+}
+
+.first div {
+  background-color: #ff7700;
+}
+
+.second div {
+  background-color: #ff7700;
+}
+
+.third div {
+  background-color: #ff7700;
+}
+
+@keyframes text-animation {
+  0% {
+    margin-top: 0;
+  }
+
+  10% {
+    margin-top: 0;
+  }
+
+  20% {
+    margin-top: -5.62rem;
+  }
+
+  30% {
+    margin-top: -5.62rem;
+  }
+
+  40% {
+    margin-top: -11.24rem;
+  }
+
+  60% {
+    margin-top: -11.24rem;
+  }
+
+  70% {
+    margin-top: -5.62rem;
+  }
+
+  80% {
+    margin-top: -5.62rem;
+  }
+
+  90% {
+    margin-top: 0;
+  }
+
+  100% {
+    margin-top: 0;
+  }
+}
+
+.resumeDiv p {
+  font-size: 20px;
+  width: 42rem;
+  margin-left: 3rem;
+  margin-bottom: 3rem;
+  justify-content: flex-start;
+  align-items: center;
+  font-weight: 500;
+  color: #696969;
+}
+
+/*--------------------------About Section---------------------------*/
+
+.BodyAboutDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 3rem;
+  width: 50rem;
+}
+
+.aboutheading {
+  font-size: 3rem;
+  font-weight: 900;
+  color: #000;
+  line-height: 0%;
+  margin-left: 3rem;
+  margin-bottom: 0%;
+  margin-top: 7rem;
+}
+
+.aboutheading span {
+  color: #ff7700;
+  font-size: 4rem;
+}
+
+.AboutSubDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.AboutSubHeading {
+  color: #ff7700;
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-left: 3rem;
+  line-height: 0%;
+  margin-top: 4rem;
+}
+
+.AboutInfo {
+  font-size: 1.5rem;
+  text-align: justify;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-top: 0%;
+}
+
+.BodyAboutMainDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 40rem;
+}
+
+.profilePhoto {
+  height: 20rem;
+  width: 20rem;
+  border-radius: 5px;
+  margin-top: 9rem;
+  margin-left: 7rem;
+  box-shadow: rgba(9, 30, 66, 0.500) 0px 0px 20px -2px;
+}
+
+.resumebtn {
+  height: 3rem;
+  width: 20rem;
+  color: #fff;
+  background-color: #1d1d1d;
+  border: 1px solid rgb(211, 211, 211);
+  box-shadow: rgba(9, 30, 66, 0.500) 0px 0px 20px -2px;
+  border-radius: 5px;
+  font-family: "Satoshi";
+  font-weight: bold;
+  font-size: 1rem;
+  margin-left: 7rem;
+  margin-top: 1.3rem;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.resumebtn:hover {
+  transform: scale(1.1);
+  transition: transform 0.5s;
+  border: 3px solid #ff7700;
+}
+
+/*--------------------------Skill Section---------------------------*/
+
+.tabtitles {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.tablinks {
+  font-size: 3rem;
+  font-weight: 900;
+  color: #000;
+  margin: 0;
+  margin-bottom: 2rem;
+}
+
+.tablinks span {
+  color: #ff7700;
+  font-size: 4rem;
+}
+
+.skills-div {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  justify-content: space-around;
+}
+
+.skills-div p {
+  background: #ff7700;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 5px;
+  width: 120px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(9, 30, 66, 0.500) 0px 0px 20px -2px;
+}
+
+.skills-div p:hover {
+  transform: scale(1.2);
+  transition: transform 0.5s;
+  border: 2px solid rgb(69, 69, 69);
+}
+
+/*--------------------------Education & Experience Section---------------------------*/
+
+.education-experience-div {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+  padding-top: 7rem;
+}
+
+/*--------------------------Education Section---------------------------*/
+.education-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-basis: 40%;
+}
+
+.education-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.passing-year {
+  color: #ff7700;
+  font-size: 22px;
+  font-weight: 500;
+  margin: 0%;
+}
+
+.passing-year span {
+  color: #000;
+  font-weight: bold;
+  margin-left: 3rem;
+}
+
+.collge-name {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/*--------------------------Experience Section---------------------------*/
+
+.experience-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-basis: 40%;
+}
+
+.experience-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+
+/*--------------------------Project Section---------------------------*/
+.Projectcontainer {
+  padding-top: 6rem;
+}
+
+.Projectheading {
+  font-size: 3rem;
+  font-weight: 900;
+  color: #000;
+  margin: 0;
+  margin-left: 3rem;
+}
+
+.Projectheading span {
+  color: #ff7700;
+  font-size: 4rem;
+}
+
+.work-list {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.work img {
+  width: 400px;
+  margin-left: 3rem;
+  margin-right: 3.5rem;
+  margin-bottom: 2rem;
+  border-radius: 5px;
+  box-shadow: rgba(9, 30, 66, 0.500) 0px 0px 20px -2px;
+}
+
+.work img:hover {
+  transform: scale(1.1);
+  transition: transform 0.5s;
+}
+
+.layer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  width: 360px;
+  height: 200px;
+  border-radius: 5px;
+  margin-left: 3rem;
+  margin-right: 3.5rem;
+}
+
+.layer p {
+  font-size: larger;
+}
+
+/*--------------------------Contact Section---------------------------*/
+
+.Contactheading {
+  font-size: 3rem;
+  font-weight: 900;
+  color: #000;
+  line-height: 0%;
+  margin-bottom: 5rem;
+  margin-top: 8rem;
+  margin-left: 3rem;
+}
+
+.Contactheading span {
+  color: #ff7700;
+  font-size: 4rem;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.mail-and-call {
+  width: 20px;
+  height: 20px;
+  margin-left: 3rem;
+  margin-right: 1rem;
+}
+
+.contactLogo {
+  width: 40px;
+  height: 40px;
+  margin-left: 3rem;
+  margin-top: 1rem;
+}
+
+.contactLogo:hover {
+  transform: scale(1.3);
+  transition: transform 0.5s;
+}
+
+.contact-left p {
+  font-size: 20px;
+}
+
+.contact-left {
+  flex-basis: 35%;
+}
+
+.contact-right {
+  flex-basis: 60%;
+}
+
+.contact-right form {
+  width: 100%;
+  margin-top: 6rem;
+  margin-bottom: 2rem;
+}
+
+.resumebtn1 {
+  height: 3rem;
+  width: 12rem;
+  color: #fff;
+  background-color: #1d1d1d;
+  border: 1px solid rgb(211, 211, 211);
+  box-shadow: rgba(9, 30, 66, 0.500) 0px 0px 20px -2px;
+  border-radius: 5px;
+  font-family: "Satoshi";
+  font-weight: bold;
+  font-size: 1rem;
+  margin-top: 1rem;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.resumebtn1:hover {
+  transform: scale(1.1);
+  transition: transform 0.5s;
+  border: 3px solid #ff7700;
+}
+
+form input {
+  width: 100%;
+  border: none;
+  outline: none;
+  background: #fff;
+  padding: 15px;
+  margin: 15px 0;
+  color: #1d1d1d;
+  font-size: 17px;
+  border-radius: 5px;
+  box-shadow: rgba(9, 30, 66, 0.300) 0px 0px 20px -2px;
+  font-family: satoshi;
+}
+
+/*--------------------------Thank You Section---------------------------*/
+
+.thank-you {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ff7700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0;
+}
+
+/*--------------------------Copyright Section---------------------------*/
+
+.copyright {
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  background: #1d1d1d;
+  color: #fff;
+  font-weight: bold;
+  margin-top: 2rem;
+}
