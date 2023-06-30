@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/jayeshtambatportfolio/static/css/main.2e2f1599.css",
-    "main.js": "/jayeshtambatportfolio/static/js/main.3256af94.js",
+    "main.css": "/jayeshtambatportfolio/static/css/main.dae7f251.css",
+    "main.js": "/jayeshtambatportfolio/static/js/main.85059391.js",
     "static/js/787.068bd901.chunk.js": "/jayeshtambatportfolio/static/js/787.068bd901.chunk.js",
+    "static/media/BG6.jpg": "/jayeshtambatportfolio/static/media/BG6.184c654b0db4f9ab6aca.jpg",
     "static/media/ZonSoftTech.png": "/jayeshtambatportfolio/static/media/ZonSoftTech.d251f8f68a634d6e6302.png",
     "static/media/BG5.jpg": "/jayeshtambatportfolio/static/media/BG5.b8eb9647d5ab20f40d8b.jpg",
     "static/media/Profile.jpg": "/jayeshtambatportfolio/static/media/Profile.889dd5ec5ec4cc2280de.jpg",
@@ -16,16 +17,18 @@
     "static/media/react.png": "/jayeshtambatportfolio/static/media/react.44319306359c7112276d.png",
     "static/media/AI.png": "/jayeshtambatportfolio/static/media/AI.61e9c9a7b3eb4cc78876.png",
     "static/media/mail.png": "/jayeshtambatportfolio/static/media/mail.e1097496c875a6d3635f.png",
+    "static/media/snapchat.png": "/jayeshtambatportfolio/static/media/snapchat.9d36e59b5811c2bd7c0b.png",
     "static/media/call.png": "/jayeshtambatportfolio/static/media/call.f8080ed0207343dc8df4.png",
     "static/media/XD.png": "/jayeshtambatportfolio/static/media/XD.400c5242e11e9deb0587.png",
     "static/media/sourcetree.png": "/jayeshtambatportfolio/static/media/sourcetree.4c696f9fbb994ca1424c.png",
+    "static/media/whatsapp.png": "/jayeshtambatportfolio/static/media/whatsapp.75814ffcb984ebd92689.png",
     "index.html": "/jayeshtambatportfolio/index.html",
-    "main.2e2f1599.css.map": "/jayeshtambatportfolio/static/css/main.2e2f1599.css.map",
-    "main.3256af94.js.map": "/jayeshtambatportfolio/static/js/main.3256af94.js.map",
+    "main.dae7f251.css.map": "/jayeshtambatportfolio/static/css/main.dae7f251.css.map",
+    "main.85059391.js.map": "/jayeshtambatportfolio/static/js/main.85059391.js.map",
     "787.068bd901.chunk.js.map": "/jayeshtambatportfolio/static/js/787.068bd901.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e2f1599.css",
-    "static/js/main.3256af94.js"
+    "static/css/main.dae7f251.css",
+    "static/js/main.85059391.js"
   ]
 }
