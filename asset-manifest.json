@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/jayeshtambatportfolio/static/css/main.d4763463.css",
-    "main.js": "/jayeshtambatportfolio/static/js/main.2497fae6.js",
+    "main.js": "/jayeshtambatportfolio/static/js/main.aa632626.js",
     "static/js/787.068bd901.chunk.js": "/jayeshtambatportfolio/static/js/787.068bd901.chunk.js",
-    "static/media/Resume.pdf": "/jayeshtambatportfolio/static/media/Resume.c3c0d7e64a8acd60f396.pdf",
+    "static/media/Resume.pdf": "/jayeshtambatportfolio/static/media/Resume.666f7b37af25ed5eadb8.pdf",
     "static/media/BG6.jpg": "/jayeshtambatportfolio/static/media/BG6.184c654b0db4f9ab6aca.jpg",
     "static/media/ZonSoftTech.png": "/jayeshtambatportfolio/static/media/ZonSoftTech.d251f8f68a634d6e6302.png",
     "static/media/BG5.jpg": "/jayeshtambatportfolio/static/media/BG5.b8eb9647d5ab20f40d8b.jpg",
@@ -24,11 +24,11 @@
     "static/media/whatsapp.png": "/jayeshtambatportfolio/static/media/whatsapp.75814ffcb984ebd92689.png",
     "index.html": "/jayeshtambatportfolio/index.html",
     "main.d4763463.css.map": "/jayeshtambatportfolio/static/css/main.d4763463.css.map",
-    "main.2497fae6.js.map": "/jayeshtambatportfolio/static/js/main.2497fae6.js.map",
+    "main.aa632626.js.map": "/jayeshtambatportfolio/static/js/main.aa632626.js.map",
     "787.068bd901.chunk.js.map": "/jayeshtambatportfolio/static/js/787.068bd901.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4763463.css",
-    "static/js/main.2497fae6.js"
+    "static/js/main.aa632626.js"
   ]
 }
