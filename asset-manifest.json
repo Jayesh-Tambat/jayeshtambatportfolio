@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jayeshtambatportfolio/static/css/main.e63d9181.css",
-    "main.js": "/jayeshtambatportfolio/static/js/main.33863dba.js",
+    "main.css": "/jayeshtambatportfolio/static/css/main.07a43181.css",
+    "main.js": "/jayeshtambatportfolio/static/js/main.3a1c8558.js",
     "static/js/787.068bd901.chunk.js": "/jayeshtambatportfolio/static/js/787.068bd901.chunk.js",
     "static/media/macbook.png": "/jayeshtambatportfolio/static/media/macbook.69820e488cecd95ab87a.png",
+    "static/media/Resume.pdf": "/jayeshtambatportfolio/static/media/Resume.51431d77f27fb738d8f4.pdf",
     "static/media/BG6.jpg": "/jayeshtambatportfolio/static/media/BG6.184c654b0db4f9ab6aca.jpg",
     "static/media/ZonSoftTech.png": "/jayeshtambatportfolio/static/media/ZonSoftTech.d251f8f68a634d6e6302.png",
     "static/media/Profile.jpg": "/jayeshtambatportfolio/static/media/Profile.69599d8f8066c4161772.jpg",
     "static/media/BG5.jpg": "/jayeshtambatportfolio/static/media/BG5.b8eb9647d5ab20f40d8b.jpg",
     "static/media/Orthosoft.png": "/jayeshtambatportfolio/static/media/Orthosoft.116e478817e99feff172.png",
-    "static/media/Resume.pdf": "/jayeshtambatportfolio/static/media/Resume.151afc5d734a48732668.pdf",
     "static/media/img4.png": "/jayeshtambatportfolio/static/media/img4.fbd559670d6af6d2a0a4.png",
     "static/media/MCA.png": "/jayeshtambatportfolio/static/media/MCA.af2690c53238742362f1.png",
     "static/media/img3.png": "/jayeshtambatportfolio/static/media/img3.3d780777c8609a34077a.png",
@@ -26,12 +26,12 @@
     "static/media/sourcetree.png": "/jayeshtambatportfolio/static/media/sourcetree.4c696f9fbb994ca1424c.png",
     "static/media/whatsapp.png": "/jayeshtambatportfolio/static/media/whatsapp.75814ffcb984ebd92689.png",
     "index.html": "/jayeshtambatportfolio/index.html",
-    "main.e63d9181.css.map": "/jayeshtambatportfolio/static/css/main.e63d9181.css.map",
-    "main.33863dba.js.map": "/jayeshtambatportfolio/static/js/main.33863dba.js.map",
+    "main.07a43181.css.map": "/jayeshtambatportfolio/static/css/main.07a43181.css.map",
+    "main.3a1c8558.js.map": "/jayeshtambatportfolio/static/js/main.3a1c8558.js.map",
     "787.068bd901.chunk.js.map": "/jayeshtambatportfolio/static/js/787.068bd901.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e63d9181.css",
-    "static/js/main.33863dba.js"
+    "static/css/main.07a43181.css",
+    "static/js/main.3a1c8558.js"
   ]
 }
